@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "364224609055",
+    "project_id": "paytac-73726",
+    "storage_bucket": "paytac-73726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364224609055:android:fc00cc9b00c73804038e2a",
+        "android_client_info": {
+          "package_name": "com.example.paytac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364224609055-scht53fu73jo23pd46vhv6jld86u0bf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKCWaPZ3s-53dgSPc0XxoNNNIZYZlDvkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364224609055-scht53fu73jo23pd46vhv6jld86u0bf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364224609055:android:a9b6508c35a4118b038e2a",
+        "android_client_info": {
+          "package_name": "com.example.paytac_captain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364224609055-scht53fu73jo23pd46vhv6jld86u0bf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKCWaPZ3s-53dgSPc0XxoNNNIZYZlDvkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364224609055-scht53fu73jo23pd46vhv6jld86u0bf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
